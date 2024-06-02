@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Ignasinou/ignasinou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github.com/ignasinou/plotthatsong/assets/plotthatsong.jpeg" width="200px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# PlotThatSong
+<i> Plot That Song </i>
+
+</div>
+
+&nbsp; Creative project that merges Music Information Retrieval (MIR) and artistic pen plotter technology
+
+&nbsp; Extracts and visualizes: Spectrograms, waveforsm, beat-ticks and music-related information.
+
+&nbsp; Plots subprocessed to be penplotter after.
+
+Plot That Song is a "pseudoartistic" project that combines music information retrieval with pen plotter technology to create visual representations of songs. This is the first iteration, with more features planned for future development. Currently, the visualizations are generated using Python, utilizing libraries such as librosa and essentia.
+The plots incorporate the following extracted information: waveforms (left and right channels), spectrograms, envelope, beats (using Essentia's RhythmExtractor), and BPM.
+
+## Examples
+
+
+
+
+
